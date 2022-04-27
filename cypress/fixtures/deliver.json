@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Marco Antonio",
+        "cpf": "34545724615",
+        "email": "marco.ant.seg@gmail.com",
+        "whatsapp": "11998486541",
+        "address": {
+            "postalcode": "05444060",
+            "street": "Praça Guido Cagnacci",
+            "number": "115",
+            "details": "AP 405",
+            "district": "Vila Madalena",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "João Lucas",
+        "cpf": "000000000AA",
+        "email": "papito@hotmail.com",
+        "whatsapp": "11999999999",
+        "address": {
+            "postalcode": "05444060",
+            "street": "Praça Guido Cagnacci",
+            "number": "115",
+            "details": "AP 405",
+            "district": "Vila Madalena",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Jeferson Almeida",
+        "cpf": "00000014141",
+        "email": "marco.com.br",
+        "whatsapp": "11984212154",
+        "address": {
+            "postalcode": "05444060",
+            "street": "Praça Guido Cagnacci",
+            "number": "115",
+            "details": "AP 405",
+            "district": "Vila Madalena",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
